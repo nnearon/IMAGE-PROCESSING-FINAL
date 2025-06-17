@@ -1,6 +1,6 @@
 # IMAGE-PROCESSING-FINAL
-Name: Noon Aamir Elagail \\ 
-Student ID: B2280.060168
+- Name: Noon Aamir Elagail 
+- Student ID: B2280.060168
 
 # Steps Walkthrough - Jupyter Notebook
 - Created new project folder using VScode, then uploaded all the pictures for the assignmentfrom the google drive.
