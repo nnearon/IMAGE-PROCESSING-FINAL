@@ -1,5 +1,5 @@
 # IMAGE-PROCESSING-FINAL
-Name: Noon Aamir Elagail \n
+Name: Noon Aamir Elagail \\ 
 Student ID: B2280.060168
 
 # Steps Walkthrough - Jupyter Notebook
